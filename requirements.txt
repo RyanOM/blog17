@@ -1,6 +1,6 @@
-Django==1.7.1
+Django==1.6.1
+Pillow==2.3.0
 dj-database-url==0.3.0
-waitress==0.8.9
+django-taggit==0.11.2
 whitenoise==1.0.6
 wsgiref==0.1.2
-psycopg2==2.5.3
