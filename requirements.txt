@@ -5,4 +5,3 @@ django-taggit==0.11.2
 gunicorn==18.0
 whitenoise==1.0.6
 wsgiref==0.1.2
-
