@@ -1,3 +1,7 @@
-body {
-	/*background: red;*/
+#blog .tag-list li a{
+   color: grey;
+}
+#blog .tag-list li.active a{
+   color: black;
+   text-decoration: underline;
 }
