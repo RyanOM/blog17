@@ -54,7 +54,7 @@
                   {% endfor %}
                   <span>&bull;</span> <em class="date">{{ post.published_date }}</em></p>
 
-                  <p>{{ post.text|linebreaks }}</p>
+                  <p>{{ post.text|linebreaks|truncatewords:30 }}<a href="{{ post.get_absolute_url }}"><i class="fa fa-chevron-circle-right"></i> Read More</a></p>
 
                </div>
 
