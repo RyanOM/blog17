@@ -2,6 +2,12 @@
 Small WebBlog app written in Django 1.7
 ---
 
+## Features:
+
+- Images via Pillow
+- Tags via Taggit
+
+
 ## Requirements
 
 - Python2
