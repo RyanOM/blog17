@@ -1,5 +1,5 @@
 Django==1.7.2
-Pillow==2.3.0
+Pillow==9.0.1
 dj-database-url==0.3.0
 django-taggit==0.12.1
 gunicorn==18.0
